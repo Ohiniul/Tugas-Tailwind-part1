@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.70964df1.css",
-    "main.js": "/static/js/main.ab644fab.js",
-    "static/js/453.ff8d383e.chunk.js": "/static/js/453.ff8d383e.chunk.js",
-    "static/media/AttackonTitan_FinalSeasonKeyVisualEren-1.jpg": "/static/media/AttackonTitan_FinalSeasonKeyVisualEren-1.1291626736512131942d.jpg",
-    "static/media/bi.jpg": "/static/media/bi.7ecc33846af8cdffdb37.jpg",
-    "static/media/maximum.jpg": "/static/media/maximum.5df038881921f2a87632.jpg",
-    "static/media/HD-wallpaper-attack-on-titan-poster-digital-2022.jpg": "/static/media/HD-wallpaper-attack-on-titan-poster-digital-2022.87f0491d4665d0ff4b42.jpg",
-    "static/media/dbr.jpg": "/static/media/dbr.d2712ba62039a5a7f4c6.jpg",
-    "index.html": "/index.html",
-    "main.70964df1.css.map": "/static/css/main.70964df1.css.map",
-    "main.ab644fab.js.map": "/static/js/main.ab644fab.js.map",
-    "453.ff8d383e.chunk.js.map": "/static/js/453.ff8d383e.chunk.js.map"
+    "main.css": "/Tugas-Tailwind-part1/static/css/main.70964df1.css",
+    "main.js": "/Tugas-Tailwind-part1/static/js/main.6b821442.js",
+    "static/js/453.ff8d383e.chunk.js": "/Tugas-Tailwind-part1/static/js/453.ff8d383e.chunk.js",
+    "static/media/AttackonTitan_FinalSeasonKeyVisualEren-1.jpg": "/Tugas-Tailwind-part1/static/media/AttackonTitan_FinalSeasonKeyVisualEren-1.1291626736512131942d.jpg",
+    "static/media/bi.jpg": "/Tugas-Tailwind-part1/static/media/bi.7ecc33846af8cdffdb37.jpg",
+    "static/media/maximum.jpg": "/Tugas-Tailwind-part1/static/media/maximum.5df038881921f2a87632.jpg",
+    "static/media/HD-wallpaper-attack-on-titan-poster-digital-2022.jpg": "/Tugas-Tailwind-part1/static/media/HD-wallpaper-attack-on-titan-poster-digital-2022.87f0491d4665d0ff4b42.jpg",
+    "static/media/dbr.jpg": "/Tugas-Tailwind-part1/static/media/dbr.d2712ba62039a5a7f4c6.jpg",
+    "index.html": "/Tugas-Tailwind-part1/index.html",
+    "main.70964df1.css.map": "/Tugas-Tailwind-part1/static/css/main.70964df1.css.map",
+    "main.6b821442.js.map": "/Tugas-Tailwind-part1/static/js/main.6b821442.js.map",
+    "453.ff8d383e.chunk.js.map": "/Tugas-Tailwind-part1/static/js/453.ff8d383e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70964df1.css",
-    "static/js/main.ab644fab.js"
+    "static/js/main.6b821442.js"
   ]
 }
